@@ -1,0 +1,14 @@
+input {
+    text-align:left;
+}
+
+div#kolomData {
+    display: none;
+}
+
+div#hasil {
+    display: none;
+}
+
+body { background-color:rad;
+}
